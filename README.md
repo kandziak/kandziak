@@ -2,6 +2,8 @@
 
 I use Vim btw
 
+PostgreSQL > Tailwind CSS
+
 <!--
 **kandziak/kandziak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
