@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-PostgreSQL > Tailwind CSS > Firestore
+PostgreSQL > Tailwind CSS
 
 I use Vim btw
 
