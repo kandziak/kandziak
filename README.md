@@ -1,20 +1,7 @@
-### Hi there 👋
+Somewhere between an ad click and an app install there's a pipeline. I build that at [AdShift](https://adshift.com).
 
-PostgreSQL > Tailwind CSS
-
-I use Vim btw
-
-<!--
-**kandziak/kandziak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Counting installs exactly once, at any traffic
+- Go and Kafka by day, Snowflake when the numbers disagree
+- Five mobile SDKs, one of which is always the suspect
+- PostgreSQL > Tailwind CSS
+- I used Vim btw. Then Claude happened.
